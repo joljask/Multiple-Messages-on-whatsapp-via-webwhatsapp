@@ -25,6 +25,8 @@ python sender.py
 
 ## step 4 - Application will open
 
+###### Screenshot
+![Image of the application]()
 
 
 
